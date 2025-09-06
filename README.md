@@ -1,7 +1,7 @@
 # Loan Approval Prediction - Binary Classification 💵
 
 ## 🚀 Streamlit Demo
-[Try it here](https://loan-approval-prediction-mvjrlxuuaer7tmykne4dar.streamlit.app/)
+[You can try it here 🚀](https://loan-approval-prediction-mvjrlxuuaer7tmykne4dar.streamlit.app/)
 
 ## 📂 Project Structure
 ```
