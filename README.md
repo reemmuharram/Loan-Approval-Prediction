@@ -6,6 +6,7 @@
 ## 📂 Project Structure
 ```
 Loan-Approval-Prediction/
+├── README.md
 ├── model.ipynb
 ├── app.py
 ├── requirements.txt
