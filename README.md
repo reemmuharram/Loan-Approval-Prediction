@@ -4,12 +4,13 @@
 [Try it here](https://loan-approval-prediction-mvjrlxuuaer7tmykne4dar.streamlit.app/)
 
 ## 📂 Project Structure
+```
 Loan-Approval-Prediction/
 ├── model.ipynb
 ├── app.py
 ├── requirements.txt
 ├── model.pkl
-
+```
 ## 🧩 Features
 - Number of Dependents of the Applicant
 - Education of the Applicant
